@@ -39,6 +39,9 @@
 /Users/aqsin/FinShark/api/bin/Debug/net10.0/Microsoft.VisualStudio.SolutionPersistence.dll
 /Users/aqsin/FinShark/api/bin/Debug/net10.0/Mono.TextTemplating.dll
 /Users/aqsin/FinShark/api/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/aqsin/FinShark/api/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/aqsin/FinShark/api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/aqsin/FinShark/api/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Users/aqsin/FinShark/api/bin/Debug/net10.0/System.ClientModel.dll
 /Users/aqsin/FinShark/api/bin/Debug/net10.0/System.CodeDom.dll
 /Users/aqsin/FinShark/api/bin/Debug/net10.0/System.Composition.AttributedModel.dll
